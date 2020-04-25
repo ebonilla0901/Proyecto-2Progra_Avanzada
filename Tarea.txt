@@ -1,0 +1,23 @@
+What is Quality Assurance?
+Quality Assurance (QA) is defined as an activity to ensure that an organization is providing the best possible product or service to customers. QA focuses on improving the processes to deliver
+Quality Products to the customer. An organization has to ensure, that processes are efficient and effective as per the quality standards defined for software products. Quality Assurance is popularly known as QA Testing
+
+QA TESTER
+
+QA Tester (Quality Assurance) es un asegurador de la calidad. Es un perfil profesional orientado principalmente a la medición de la calidad de los procesos utilizados para crear un producto de calidad.
+
+Entre sus funciones se encuentran el diseño y la ejecución integral de pruebas,   la medición sistemática, la comparación con estándares, el seguimiento de los procesos… todas ellas encaminadas a la prevención de errores durante el 
+proceso de desarrollo del producto. Se diferencia del testing (también conocido como ‘Control de la calidad’), en que este último únicamente realiza las actividades orientadas a comprobar la calidad al final del proceso, al producto.
+
+QA se realiza durante todas las etapas del proyecto. Se centra más en la prevención que en la detección. El proceso de aseguramiento de la calidad tiene como objetivo proporcionar una adecuada garantía de que los productos de software se ajustan a 
+sus necesidades específicas y a los planes establecidos anteriormente.
+-
+Un profesional que se dedique al aseguramiento de la calidad (QA) no es necesario que tenga conocimientos de programación, pero sí que es recomendable ya que le ayudará a la hora de realizar sus tareas de control de la calidad.
+
+Es recomendable que tenga un alto nivel de inglés.
+
+Puede diferenciarse entre dos tipos de QA. QA Funcional más orientado al diseño y la ejecución de pruebas para los productos durante el proceso de desarrollo y el QA Técnico, orientado al rendimiento, la optimización y la comprobación de que se 
+cumplen los estándares de calidad en los productos.
+
+Los sectores que más demandan este perfil son los dedicados al software, es en ellos dónde el trabajo de aseguramiento de la calidad es más diverso, puesto que dependiendo de la importancia del software, de la estructura de la organización,
+ de las tecnologías de las que disponen, etc, los procesos a efectuar por parte de los encargados del QA son diferentes.
